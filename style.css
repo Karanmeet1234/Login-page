@@ -1,0 +1,20 @@
+body{
+    background-color: rgb(48, 43, 43);
+}
+.div{
+    background-color: rgb(249, 250, 249);
+    text-align: center;
+   margin-left: 520px;
+   margin-right: 520px;
+  
+
+}
+.login{
+    margin-right: 20px;
+    margin-top: 100px;
+}
+.btn {
+    border-color: lawngreen;
+    width: 120px;
+}
+     
